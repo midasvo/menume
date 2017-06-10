@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Web.Mvc;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using menume;
 using menume.Controllers;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Menume.Tests.UnitTests.Controllers
 {

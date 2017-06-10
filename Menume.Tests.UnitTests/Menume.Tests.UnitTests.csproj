@@ -92,7 +92,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\menume\Menume.Frontend.csproj">
+    <ProjectReference Include="..\Menume.Frontend\Menume.Frontend.csproj">
       <Project>{39036E03-D1D9-4DA1-8F9B-EF7BDD79B0BF}</Project>
       <Name>Menume.Frontend</Name>
     </ProjectReference>
